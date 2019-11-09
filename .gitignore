@@ -1,0 +1,6 @@
+*.bin
+*.pyc
+.DS_STORE
+*.pth
+*checkpoint*
+*.pkl
